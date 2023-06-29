@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolBus.Presentation",
+    "\\SchoolBus.Presentation\\ViewModels",
+    "\\SchoolBus.Presentation\\ViewModels\\EditViewModels",
+    "\\SchoolBus.Presentation\\Views",
+    "\\SchoolBus.Presentation\\Views\\EditViews"
+  ],
+  "SelectedNode": "\\SchoolBus.Presentation\\ViewModels\\CarViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
